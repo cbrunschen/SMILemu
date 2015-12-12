@@ -1,4 +1,3 @@
-*.iml
 .DS_Store
 .gradle
 /.idea/libraries

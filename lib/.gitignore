@@ -1,1 +1,12 @@
+*.iml
+.DS_Store
+.gradle
+/.idea/libraries
+/.idea/workspace.xml
+build
 /build
+build/
+bin
+/captures
+/local.properties
+_darcs

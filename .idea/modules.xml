@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SMILemu.iml" filepath="$PROJECT_DIR$/SMILemu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Graphic/graphic/graphic.iml" filepath="$PROJECT_DIR$/../Graphic/graphic/graphic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smilemu/smilemu.iml" filepath="$PROJECT_DIR$/smilemu/smilemu.iml" />
+    </modules>
+  </component>
+</project>

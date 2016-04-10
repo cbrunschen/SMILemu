@@ -13,6 +13,13 @@
             <option value="$PROJECT_DIR$/smilemu" />
           </set>
         </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/../Graphic/graphic" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/smilemu" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
